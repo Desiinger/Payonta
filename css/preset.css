@@ -1,8 +1,8 @@
 /*
 Theme Name: Payloan
-Theme URI: 
-Author: 
-Author URI: 
+Theme URI:
+Author:
+Author URI:
 Description: Payloan - Banking & Business Loan HTML5 Responsive Template
 Version: 1.0
 License:
@@ -43,7 +43,7 @@ body{
 }
 
 body.bg_right{
-    background: url(../images/bg/1.png) no-repeat right top;
+    /*background: url(../images/bg/1.png) no-repeat right top;*/
 }
 /*------------------------------------------------------------------------------
 / 2. Typography Settings
@@ -56,12 +56,12 @@ h1, h2, h3, h4, h5, h6{
 button:focus{
     outline: none;
 }
-input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-inner-spin-button,
 input[type=number]::-webkit-outer-spin-button {
-    -webkit-appearance: none; 
+    -webkit-appearance: none;
     appearance: none;
     -moz-appearance: none;
-    margin: 0; 
+    margin: 0;
 }
 input[type="number"] {
     -moz-appearance: textfield !important;
@@ -107,7 +107,7 @@ ul li{
     border: none;
     font-size: 17px;
     font-weight: 700;
-    background: #8180e0;
+    background: #5bc7fb;
     color: #fff;
     height: 55px;
     text-align: center;
